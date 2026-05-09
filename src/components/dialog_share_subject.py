@@ -15,8 +15,8 @@ def share_subject_dialog(subject_name,subject_code):
     col1,col2=st.columns(2)
     with col1:
         st.markdown("### Copy Link")
-        st.code('join_url',language='text')
-        st.code('subject_code',language='text')
+        st.code(join_url,language='text')
+        st.code(subject_code,language='text')
         st.info('Copy this link to share on Whatsapp or Email')
 
     with col2:
