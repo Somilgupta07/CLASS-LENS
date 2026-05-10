@@ -14,7 +14,7 @@ Face recognition + voice biometrics, built on Streamlit.
 [![Supabase](https://img.shields.io/badge/Supabase-PostgreSQL-3ECF8E?style=flat-square&logo=supabase&logoColor=white)](https://supabase.com)
 [![License](https://img.shields.io/badge/License-MIT-00C896?style=flat-square)](LICENSE)
 
-[Live Demo](#) · [Report Bug](../../issues) · [Request Feature](../../issues)
+[Live Demo](https://cs-landing-page-0007.vercel.app/) · [Report Bug](../../issues) · [Request Feature](../../issues)
 
 </div>
 
